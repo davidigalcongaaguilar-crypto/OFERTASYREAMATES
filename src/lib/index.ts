@@ -1,3 +1,6 @@
+export const ROUTE_PATHS = {
+  HOME: "/",
+};
 // ─── Branding ─────────────────────────────────────────
 export const BRAND = {
   NAME: "Ofertas & Remates",
