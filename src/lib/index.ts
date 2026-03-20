@@ -57,7 +57,7 @@ export const INITIAL_CATEGORIES = [
   {"id":"1773973928461","name":"ZAPATOS","description":"","image":"https://img.freepik.com/vector-gratis/ilustracion-vectorial-zapatos-payaso-colores_1308-180473.jpg?semt=ais_hybrid&w=740&q=80"}
 ];
 
-export const INITIAL_SUBCATEGORIES = [
+export const INITIAL_SUB_CATEGORIES = [
   {"id":"televisores-nuevo","name":"NUEVO (caja sellada)","categoryId":"televisores","image":"https://a-static.mlcdn.com.br/1500x1500/smart-tv-70-4k-uhd-led-samsung-70du7700-wi-fi-bluetooth-alexa-3-hdmi/magazineluiza/238243800/e12d1262b6199adbb8522694dfde3919.jpg"},
   {"id":"televisores-exibicion","name":"EXIBICION","categoryId":"televisores","image":"https://images.unsplash.com/photo-1556740734-7f96267b118a?q=80&w=2070&auto=format&fit=crop"},
   {"id":"televisores-seminuevo","name":"SEMINUEVO (usado)","categoryId":"televisores","image":"https://images.unsplash.com/photo-1558522195-e1201b090344?q=80&w=2070&auto=format&fit=crop"},
