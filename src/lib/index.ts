@@ -87,7 +87,7 @@ export const INITIAL_SUB_CATEGORIES = [
   {"id":"muebles-seminuevo","name":"SEMINUEVO (usado)","categoryId":"muebles","image":"https://images.unsplash.com/photo-1558522195-e1201b090344?q=80&w=2070&auto=format&fit=crop"}
 ];
 
-export const INITIAL_PRODUCTS = [
+export const PRODUCTS = INITIAL_PRODUCTS;[
   {"id":"1773974269237","name":"TEL DE 32 PULGADAS","category":"televisores","subCategory":"televisores-nuevo","price":"450","specs":["CARO PERO BUENO"],"image":"https://a-static.mlcdn.com.br/1500x1500/smart-tv-70-4k-uhd-led-samsung-70du7700-wi-fi-bluetooth-alexa-3-hdmi/magazineluiza/238243800/e12d1262b6199adbb8522694dfde3919.jpg"},
   {"id":"1773974311164","name":"TV SAMSUNG 43","category":"televisores","subCategory":"televisores-nuevo","price":"750","specs":["MASOMENOS"],"image":"https://media.falabella.com/sodimacPE/4166086_00/w=800,h=800,fit=pad"},
   {"id":"1773974343156","name":"TV INDURAMA 50","category":"televisores","subCategory":"televisores-nuevo","price":"950","specs":["ESTA EN ALGO"],"image":"https://www.adslzone.net/app/uploads-adslzone.net/2025/12/smart-tv-samsung-oferta.png?x=500&y=295&quality=80"}
