@@ -77,5 +77,3 @@ export const PRODUCTS: Product[] = [
       "https://a-static.mlcdn.com.br/1500x1500/smart-tv-70-4k-uhd-led-samsung-70du7700",
   },
 ];
-
-export const PRODUCTS = INITIAL_PRODUCTS;
